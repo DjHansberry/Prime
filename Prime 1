@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  
+  <body>
+    <div class="header">
+    <h1>DOMINIQUE HANSBERRY</h1> 
+    </div>
+    
+    <div>
+    <img src="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Certification%20Badges/Official/SAI_BadgeSizes_DigitalBadging_CSM.png"/>
+    
+    <p>Just normal test.</p>
+    
+    
+    
+    <ul>
+      <li>Unordered list</li>
+      </ol>
+    </div>
+    
+    <div class="footer">
+    <h6>Copyright Dominique Hansberry 2023</h6>
+    </div>
+    
+      </body>
+</html>
