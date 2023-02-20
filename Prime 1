@@ -1,23 +1,174 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <link rel="stylesheet" href="style.css"/>
   </head>
   
   <body>
+    
     <div class="header">
-    <h1>DOMINIQUE HANSBERRY</h1> 
+      
+     <h1>DOMINIQUE HANSBERRY</h1>
+      <img src="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Certification%20Badges/Official/SAI_BadgeSizes_DigitalBadging_CSM.png"/>
+      <link rel="stylesheet" href="style.css"/>
+      <p>215 Greenland Dr. McDonough, GA 30253</p>
+      <p>DjHansberry@yahoo.com</p>
+      <p>(240)-328-7552</p>
+      
     </div>
     
     <div>
-    <img src="https://www.scrumalliance.org/ScrumRedesignDEVSite/media/ScrumAllianceMedia/Certification%20Badges/Official/SAI_BadgeSizes_DigitalBadging_CSM.png"/>
     
-    <p>Just normal test.</p>
+    <p>Key Qualifications</p>
     
+     <ul>
+      <li>Ability to work with little or no supervision while ensuring professional standards and integrity</li>
+      <li>Ability to priorities tasks and work with the team with sole aim of achieving positive outcome</li>
+      <li>Good understanding of health, safety and security rules within workplace</li>
+      <li>Ability to Identify threats and provide decisions that can help neutralize the threats</li>
+      <li>Strong critical thinking/analytical and creativity skills, Microsoft office, Adobe, and SharePoint
+        proficient, a proven drive for quality, excellent oral and written communication skills</li>
+      
+    </div>
+      
+    <div>
+        
+     <p>Professional Summary</p>
     
-    
-    <ul>
-      <li>Unordered list</li>
+      <ul>  
+      Competent, Professional, friendly and outgoing person, ability to work within team also initiate ideas of my
+own to ensure tasks are completed successfully. I work well under extreme pressure with an excellent
+communication skill and highly proficient with wide range of computer systems, data management, cost
+management, risk management, budgeting, information management, cybersecurity, logistics management,
+accounting and auditing. I have a good attention to details and excellent customer service ability. Proven
+ability to apply multi-disciplinary and multi-cultural approaches towards problem–solving. Hard working, eager
+to learn, Self-motivated, able to take initiative and use sound judgment in day-to-day decision making in
+absence of procedures and guidance. Exceptional drive to succeed and contributing to human development,
+excellent leadership skills, critical thinking, good management and planning skills
+      </ul> 
+      
+     <div>
+      
+       <p>Training/Certification</p>
+       
+        <ul>
+          
+          <li>US Army CECOM Training</li>
+          <li>Army Logistics</li>
+          <li>Schedmatic and drawing interpretation</li>
+          <li>Haystack Gold</li>
+          <li>Microsoft Office</li>
+          <li>Windchill PLM</li>
+          <li>Atlassian Tools</li>
+          <li>Confluence<li>
+          <li>Creo</li>
+          <li>Certified Scrum Master</li>
+          
+     </div>     
+     
+     <div>
+       
+       <p>Professional Work Experience</p>
+       
+        <ol>Configuration CPLM Analyst Lvl 2, April 2022- Present Gulfstream Aerospace
+          <li>Create plans according to schedules, for engineering assignments, and act independently to carry
+            them out.</li>
+          <li>Responsible for engineering feasibility of CAD and PLM solutions for complex assignments or full
+            project of minor complexity.</li>
+          <li>Direct activities for lower level engineering staff assigned to specific projects.</li>
+          <li>Interpret user needs to determine engineering and product data requirements, CAD and PLM
+            functional requirements, perform analysis and create action plans to implement process and data
+            modeling to meet user needs.</li>
+          <li>Tailor CAD and PLM applications functionality, to established requirements, policies and procedures.</li>
+          <li>Determine user needs and utilize system queries and utilities to support users information research.</li>
+          <li>Direct the testing and implementation of new deployment or revisions to the CAD and PLM systems.</li>
+          <li>Design and develop business reports and system status metrics.</li>
+          <li>Provide training on new functionalities and upgrades.</li>
+          <li>Ensure compliance with FAA regulatory requirements for management and control of all type design
+            data.</li>
+          <li>Maintain a current and up-to-date knowledge of developments in a specific discipline and/or other
+              related aircraft fields in order to recommend innovations to improve the quality, economy, and
+              effectiveness of the company product.</li>
+          <li>Experience in process mapping and other process improvement techniques preferred.</li>
+          <li>Familiarity with computer-aided design, manufacturing and product data management systems.</li>
+          <li>Basic knowledge of design engineering and manufacturing engineering applications and processes.</li>
+          <li>Proven computer literacy that includes PC Windows environment with specific skills in MS Access,
+            Excel, PowerPoint, Word, Visio and MS Project.</li>
+          <li>Create user stories, and manage sprint cycles as abiding by the Agile Process</li>
+          
+        <ol>CDM Specialist Lead, September 2021-April 2022 ThalesDSI</lo>
+          <li>Maintain product structures in PLM and change management tools.</li>
+          <li>Maintains customer deliverables and tracking of data items.</li>
+          <li>Conducts In-Process Audits on Bill of Materials (BOMs), Drawings and automated Software Builds for
+              formal CM release.</li>
+          <li>Supports Functional Configuration Audits (FCAs) for Quality Assurance.</li>
+          <li>Produces CM Metrics and reports based on business needs.</li>
+          <li>Reports CM project status in team meetings.</li>
+          <li>Coordinates between manufacturing and internal customers for data exchange and technological
+              updates.</li>
+          <li>Conducts CM process and tool training to company project team members.</li>
+          <li>Contributes to the development and improvement of CM processes.</li>
+          <li>Provides support to Configuration Management team, as needed.</li>
+          
+       <ol>Configuration/Program Analyst Lead, August 2020- September 2021 DAS Services Inc.</lo>
+          <li>Assisted in the analysis and creation of engineering Bills of Material (e-BOM).</li>
+          <li>Analyze and implement logistics plans.</li>
+          <li>Development of policies, guidelines, and standard operating procedures to ensure quality and cost
+              control.</li>
+          <li>Help manage and conduct analysis, studies, and analyze requirements in order to assist in the
+              development of strategies.</li>
+          <li>Review technical drawing and system schematics, liaise with product and system engineering teams to
+              discuss within Windchill and HayStack Army systems GCSS-A and LMP(CECOM ILSC).</li>
+          <li>Reviewed drawings with SolidWorks and Creole.</li>
+          <li>Review and incorporate all pertinent data into the engineering Bill of Material for assigned systems
+              into Army system of record.</li>
+          <li>Assist leadership in developing refined SOPs in the development and maintaining of e-BOMs.</li>
+          <li>Maintain records, prepare reports, and coordinate logistics activities.</li>
+          <li>Plan and conduct assignments, review progress, and evaluate results.</li>
+       
+        <ol>Configuration Management Specialist Lead, August 2018 – July 2020
+            Broadleaf Inc.</lo>
+          <li>Supporting the SEC and FBCB2, in direct support of the U.S Army.</li>
+          <li>Work collaboratively with product management and engineering teams to identify and document
+              solutions to failures uncovered during source/incoming inspections or reported by the field and ensure
+              that all failures are corrected effectively and efficiently.</li>
+          <li>Interact with system users to translate their requirements into systems, hardware, and software
+              requirements and design.</li>
+          <li>Updating live tracker via CECOM website with work statuses, and other important information
+              regarding orders.</li>
+          <li>Uploading and updating UTO via JBC-P website so unit have active, real-time up to date UTOs to install
+              on HD.</li>
+          <li>Managing CM email account, and fielding phone calls from customers, and FSR regarding systems,
+              status updates, and processes.</li>
+          <li>Scheduling meetings between government and contracting officials.</li>
+          <li>Submitting weekly and monthly status reports.</li>
+          <li>Conducting phone interviews for potential candidates for hire.</li>
+          
+        <ol>Computer Detection Systems Repairer, January 2013- September 2018
+              U.S Army</lo>
+          <li>Responsible for monitoring the execution of building modifications; including assisting with alterations
+              and space planning.</li>
+          <li>Oversaw the inspection, maintenance, and processing of equipment worth $10 million+ daily</li>
+          <li>Responsible for purchasing equipment, monitoring budget expenditures, and performing budget
+              analysis.</li>
+          <li>Responsible for all administrative tasks including but not limited to: managing executive
+              correspondence, scheduling meetings, updating presentations, and coordinating travel.</li>
+          <li>Open, update, and close customer work order in electronic CRM system.</li>
+          <li>Reach out to customers and other involved parties to verify or collect case information via telephone,
+              email, and other outlets.</li>
+          <li>Successfully interact with the test instrument, routinely loading and unloading test samples and
+              consumables as needed while ensuring accurate instrument operation.</li>
+          <li>Investigate and resolve operational problems in conjunction with other engineering and technical
+              personnel.</li>
+          <li>Provide technical support and advice to other engineering groups, devise and apply testing procedures for
+              parts or sub-assemblies received from outside vendors, and participate in the development, maintenance and
+              refinement of internal quality control and reliability programs.</li>
+          
+            
+          
+           
+          
+          
+          
       </ol>
     </div>
     
